@@ -1,8 +1,8 @@
 # Name and metadata of your task
-task_name: 'MelissaTask'
-author: 'Melissa'
-description: 'MyFirstTask'
-repositoryUrl: 'https://github.com/Melissaprivitera/ezsandbox' #replace with your own repo url
+task_name: 'MelsTask'
+author: 'Koii&NMel'
+description: 'Testing task-template'
+repositoryUrl: 'https://github.com/koii-network/task-template' #replace with your own repo url
 imageUrl: 'imageUrl'
 
 # task_executable_network : DEVELOPMENT, ARWEAVE or IPFS
@@ -22,8 +22,8 @@ minimum_stake_amount: 1.9
 
 # total_bounty_amount cannot be grater than bounty_amount_per_round
 # total bounty_amount: The total bounty amount that will be distributed to the task. (Not accepted in case of update task)
-total_bounty_amount: 10
-bounty_amount_per_round: 0.1
+total_bounty_amount: 100
+bounty_amount_per_round: 100
 
 # allowed_failed_distributions: Number of times re-submission is allowed for the distribution list in case of an audit.
 allowed_failed_distributions: 3
